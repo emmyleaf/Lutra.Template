@@ -1,0 +1,3 @@
+[submodule "Lutra"]
+	path = Lutra
+	url = git@github.com:emmyleaf/Lutra.git
